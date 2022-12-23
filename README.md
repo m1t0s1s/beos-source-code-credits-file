@@ -325,3 +325,96 @@ const char *kRSALicense =
 const char *kIndeoLicense =
 	"Indeo ® Video Technologies in part provided by Intel Corporation, Copyright 1996-2000 Intel Corporation.";
 
+
+
+
+/* Copyright © 1998-2001 Be Incorporated. All rights reserved. */
+/* Copyright © 1998-2001 Be Incorporated. All rights reserved. */
+/* Copyright © 1998-2001 Be Incorporated. All rights reserved. */
+//      Copyright ©1998 mediapede Software
+//      Copyright ©1998 mediapede Software
+//      Copyright ©1998 mediapede Software
+//      Copyright ©1998 mediapede Software
+//      Copyright ©1998 mediapede Software
+//      Copyright ©1998 mediapede Software
+//      Copyright ©1998 mediapede Software
+//      Copyright ©1998 mediapede Software
+//      Copyright ©1998 mediapede Software
+                        case 0xA9637079: // '©cpy':
+        const char *copyright_string = "© 1998-1999 Be Incorporated";
+        char *copyright_string = "© 1998-1999 Be Incorporated";
+        const char *copyright_string = "© 1997-1999 Be Incorporated";
+        const char *copyright_string = "© 1998-1999 Be Incorporated";
+        const char *copyright_string = "© 1997-1999 Be Incorporated";
+                                const char *copyright_string = "© 1997-1999 Be Incorporated";
+        const char *copyright_string = "© 1997-1999 Be Incorporated";
+#define copyright_string "© 1999 Be Incorporated"
+#define copyright_string "© 1999 Be Incorporated"
+#define copyright_string "© 1999 Be Incorporated"
+#define AUTHOR  "©1999-2000 Gobe Software, Inc."
+        Copyright © 1997 Metrowerks Corporation. All rights reserved.
+        Portions Copyright © 1999 Be Incorporated. All rights reserved.
+/*      Copyright © 1997 Metrowerks, Inc */
+/*  Copyright.: ©Copyright 1995 by metrowerks inc. All rights reserved. */
+Copyright © 1998 Metrowerks, Inc
+key combination option-G generates the UTF-8 character for the copyright symbol, ©.
+key combination option-G generates the UTF-8 character for the copyright symbol, ©.
+key combination option-G generates the UTF-8 character for the copyright symbol, ©.
+key combination option-G generates the UTF-8 character for the copyright symbol, ©.
+key combination option-G generates the UTF-8 character for the copyright symbol, ©.
+†©å∫∂ƒ©∆◊æ¨πøﬁ¥†®´∑œ¡™™™™™
+key combination option-G generates the UTF-8 character for the copyright symbol, ©.
+/       ©1997 StarCode Software
+/       ©1997 StarCode Software
+/       ©1997 StarCode Software
+        : BMediaTheme("Roster", "BeOS System Theme for media controls. ©1998 Be, Incorporated.")
+Copyright © 1998-2001 Be Incorporated.
+        "BeOS 5 copyright © 1991-2000 Be Incorporated.  All rights reserved.";
+"©1998-1999 Be Incorporated.\n"
+const char * about_text = "#000000media_server\n©1998-1999 Be Incorporated.\nAll rights reserved.\n"
+/* Copyright © 1998-2001 Be Incorporated. All rights reserved. */
+/* Copyright © 1998-2001 Be Incorporated. All rights reserved. */
+/* Copyright © 1998-2001 Be Incorporated. All rights reserved. */
+//      Copyright ©1998 mediapede Software
+//      Copyright ©1998 mediapede Software
+//      Copyright ©1998 mediapede Software
+//      Copyright ©1998 mediapede Software
+//      Copyright ©1998 mediapede Software
+//      Copyright ©1998 mediapede Software
+//      Copyright ©1998 mediapede Software
+//      Copyright ©1998 mediapede Software
+//      Copyright ©1998 mediapede Software
+                        case 0xA9637079: // '©cpy':
+        char *copyright_string = "© 1998-1999 Be Incorporated";
+        const char *copyright_string = "© 1997-1999 Be Incorporated";
+                                const char *copyright_string = "© 1997-1999 Be Incorporated";
+        const char *copyright_string = "© 1998-1999 Be Incorporated";
+        const char *copyright_string = "© 1998-1999 Be Incorporated";
+        const char *copyright_string = "© 1997-1999 Be Incorporated";
+        const char *copyright_string = "© 1997-1999 Be Incorporated";
+#define copyright_string "© 1999 Be Incorporated"
+#define copyright_string "© 1999 Be Incorporated"
+#define copyright_string "© 1999 Be Incorporated"
+#define AUTHOR  "©1999-2000 Gobe Software, Inc."
+        Copyright © 1997 Metrowerks Corporation. All rights reserved.
+        Portions Copyright © 1999 Be Incorporated. All rights reserved.
+Copyright © 1998 Metrowerks, Inc
+/*      Copyright © 1997 Metrowerks, Inc */
+/*  Copyright.: ©Copyright 1995 by metrowerks inc. All rights reserved. */
+key combination option-G generates the UTF-8 character for the copyright symbol, ©.
+key combination option-G generates the UTF-8 character for the copyright symbol, ©.
+key combination option-G generates the UTF-8 character for the copyright symbol, ©.
+key combination option-G generates the UTF-8 character for the copyright symbol, ©.
+key combination option-G generates the UTF-8 character for the copyright symbol, ©.
+key combination option-G generates the UTF-8 character for the copyright symbol, ©.
+†©å∫∂ƒ©∆◊æ¨πøﬁ¥†®´∑œ¡™™™™™
+/       ©1997 StarCode Software
+/       ©1997 StarCode Software
+/       ©1997 StarCode Software
+        : BMediaTheme("Roster", "BeOS System Theme for media controls. ©1998 Be, Incorporated.")
+Copyright © 1998-2001 Be Incorporated.
+        "BeOS 5 copyright © 1991-2000 Be Incorporated.  All rights reserved.";
+"©1998-1999 Be Incorporated.\n"
+const char * about_text = "#000000media_server\n©1998-1999 Be Incorporated.\nAll rights reserved.\n"
+Copyright © 1998-2001 by Be Incorporated.
+/* Copyright © 1998-1999 Be Incorporated. All rights reserved. */
